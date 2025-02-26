@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-adbddbc17eb81e1faaf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "libpng",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "png-fix-itxt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png-fix-itxt-Debug-9f8d03a6d7de3f6e42e4.json",
+					"name" : "png-fix-itxt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "png_genfiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png_genfiles-Debug-db92e616b3e4a1ef38a3.json",
+					"name" : "png_genfiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "png_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png_shared-Debug-17eea8b1787bbfaf0177.json",
+					"name" : "png_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "png_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png_static-Debug-b6313b3ca856e22c2ebc.json",
+					"name" : "png_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngfix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngfix-Debug-d7b5907f969159b2ef57.json",
+					"name" : "pngfix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngimage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngimage-Debug-db2e4e92eb61766f98fa.json",
+					"name" : "pngimage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngstest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngstest-Debug-9fe1ead1dccde0542186.json",
+					"name" : "pngstest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngtest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngtest-Debug-4e57a7b2815ea9e04b0c.json",
+					"name" : "pngtest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngunknown::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngunknown-Debug-707d61bb00a7c463adf3.json",
+					"name" : "pngunknown",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pngvalid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pngvalid-Debug-c00e09507cab05171ea9.json",
+					"name" : "pngvalid",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/self/library/lpng1644/cmake-build-debug",
+		"source" : "D:/self/library/lpng1644"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

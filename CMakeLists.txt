@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.23)
+project(OpenGL)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_EXE_LINKER_FLAGS "-static")
+add_executable(OpenGL main.cpp src/glad.c src/imgui.cpp src/imgui_demo.cpp src/imgui_draw.cpp src/imgui_impl_glfw.cpp src/imgui_impl_opengl3.cpp src/imgui_stdlib.cpp src/imgui_tables.cpp src/imgui_widgets.cpp src/ImGuiFileDialog.cpp)
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/include)
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/headers)
+target_link_libraries(OpenGL ${PROJECT_SOURCE_DIR}/lib/libassimp.dll.a)
+target_link_libraries(OpenGL ${PROJECT_SOURCE_DIR}/lib/glfw3.dll)

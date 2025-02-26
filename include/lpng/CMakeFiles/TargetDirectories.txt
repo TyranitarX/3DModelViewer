@@ -1,0 +1,14 @@
+D:/self/library/lpng1644/CMakeFiles/png_genfiles.dir
+D:/self/library/lpng1644/CMakeFiles/png_shared.dir
+D:/self/library/lpng1644/CMakeFiles/png_static.dir
+D:/self/library/lpng1644/CMakeFiles/pngtest.dir
+D:/self/library/lpng1644/CMakeFiles/pngvalid.dir
+D:/self/library/lpng1644/CMakeFiles/pngstest.dir
+D:/self/library/lpng1644/CMakeFiles/pngunknown.dir
+D:/self/library/lpng1644/CMakeFiles/pngimage.dir
+D:/self/library/lpng1644/CMakeFiles/pngfix.dir
+D:/self/library/lpng1644/CMakeFiles/png-fix-itxt.dir
+D:/self/library/lpng1644/CMakeFiles/RUN_TESTS.dir
+D:/self/library/lpng1644/CMakeFiles/INSTALL.dir
+D:/self/library/lpng1644/CMakeFiles/ALL_BUILD.dir
+D:/self/library/lpng1644/CMakeFiles/ZERO_CHECK.dir

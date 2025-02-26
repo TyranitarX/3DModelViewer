@@ -1,0 +1,17 @@
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/png_genfiles.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/png_shared.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/png_static.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngtest.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngvalid.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngstest.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngunknown.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngimage.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/pngfix.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/png-fix-itxt.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/test.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/install.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/install/local.dir
+D:/self/library/lpng1644/cmake-build-debug/CMakeFiles/install/strip.dir
